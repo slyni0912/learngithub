@@ -7,3 +7,4 @@ n
 s
 f s
 test1
+test github
